@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# PodCast IAs falando sobre o avanço tecnológico nos últimos 10 anos ;)
 
 ## 📒 Descrição
 Um rápido PodCast entre duas inteligencias artificiais.
